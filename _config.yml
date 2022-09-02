@@ -82,8 +82,19 @@ content:
           Web app that is used to create CV and store information about employees, up-to-date information about company and projects.
 
           Role: <mark>Fullstack Developer</mark>.
-          
+
           Environment: <mark>Ruby, Rails, RSpec, PostgreSQL, Heroku</mark>.
+
+      - layout: top-middle
+        title: Wriite
+        quote: >
+          Aug 2021 - Oct 2021
+        description: |
+          Guided writing and practices that help to reduce anxiety, relieve depression and overcome the effects of lockdown.
+
+          Role: <mark>Team lead</mark>.
+
+          Environment: <mark>Ruby, Rails, RSpec, React, Heroku</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
