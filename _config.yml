@@ -73,7 +73,7 @@ content:
 
           Role: <mark>Fullstack Developer</mark>.
 
-          Environment: <mark>Ruby, Rails, RSpec, MySQL, Docker</mark>.
+          Environment: <mark>Ruby, Rails, RSpec, MySQL, Docker, Slack API, Sidekiq, Redis</mark>.
       - layout: top-middle
         title: Team
         quote: >
@@ -95,6 +95,17 @@ content:
           Role: <mark>Team lead</mark>.
 
           Environment: <mark>Ruby, Rails, RSpec, React, Heroku</mark>.
+
+      - layout: top-middle
+        title: Melobeem
+        quote: >
+          Jan 2021 - Aug 2021
+        description: |
+          Kids competition app. You vote for cute kids, buy votes, spins etc. And at the end of monthly competition take your prize!
+
+          Role: <mark>Backend developer</mark>.
+
+          Environment: <mark>Ruby, Rails, RSpec, Redis, Amazon: EC2, ECS, RDS; Docker, GitHub Actions, Facebook API, Stripe, Sidekiq</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
