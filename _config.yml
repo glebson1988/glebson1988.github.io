@@ -31,9 +31,9 @@ linkedin_username: glebkaif
 
 # Additional icon links
 additional_links:
-- title: glebkaif.ru
-  icon: fas fa-globe
-  url: http://www.glebkaif.ru
+- title: Habr
+  icon: fas fa-user-hair
+  url: https://career.habr.com/glebson1988
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,28 +49,31 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Gleb and I'm a Ruby developer. I have an experience making web apps. I have worked at a number of companies gaining teamwork skills.
-
-  I am most skilled in: <mark>coffee</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Ruby</mark> and <mark>Ruby on Rails</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Billing
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+#        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          December 2021 - present.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          A service that implements everything related the calculating the cost of services, invoicing, working with related docs, etc.
+
+          Role <mark>Fullstack Developer</mark>.
+
+          Environment <mark>Ruby, Rails, RSpec, MySQL, Docker</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
