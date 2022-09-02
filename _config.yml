@@ -73,6 +73,8 @@ content:
 
           Role: <mark>Fullstack Developer</mark>.
 
+          Responsibilities: New features.
+
           Environment: <mark>Ruby, Rails, RSpec, MySQL, Docker, Slack API, Sidekiq, Redis</mark>.
       - layout: top-middle
         title: Team
@@ -82,6 +84,8 @@ content:
           Web app that is used to create CV and store information about employees, up-to-date information about company and projects.
 
           Role: <mark>Fullstack Developer</mark>.
+
+          Responsibilities: New features, code review, deploy.
 
           Environment: <mark>Ruby, Rails, RSpec, PostgreSQL, Heroku</mark>.
 
@@ -94,6 +98,8 @@ content:
 
           Role: <mark>Team lead</mark>.
 
+          Responsibilities: Team leading, code review.
+
           Environment: <mark>Ruby, Rails, RSpec, React, Heroku</mark>.
 
       - layout: top-middle
@@ -104,6 +110,8 @@ content:
           Kids competition app. You vote for cute kids, buy votes, spins etc. And at the end of monthly competition take your prize!
 
           Role: <mark>Backend developer</mark>.
+
+          Responsibilities: Rails API, dockerising app for development, adding Github CI. Also working with AWS (ECR, EC2, RDS etc). Adding Stripe payment system. Sidekiq scheduled jobs.
 
           Environment: <mark>Ruby, Rails, RSpec, Redis, Amazon: EC2, ECS, RDS; Docker, GitHub Actions, Facebook API, Stripe, Sidekiq</mark>.
 
