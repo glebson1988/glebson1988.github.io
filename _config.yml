@@ -32,7 +32,7 @@ linkedin_username: glebkaif
 # Additional icon links
 additional_links:
 - title: Habr
-  icon: fas fa-user-hair
+  icon: fas fa-globe
   url: https://career.habr.com/glebson1988
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -71,9 +71,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           A service that implements everything related the calculating the cost of services, invoicing, working with related docs, etc.
 
-          Role <mark>Fullstack Developer</mark>.
+          Role: <mark>Fullstack Developer</mark>.
 
-          Environment <mark>Ruby, Rails, RSpec, MySQL, Docker</mark>.
+          Environment: <mark>Ruby, Rails, RSpec, MySQL, Docker</mark>.
+      - layout: top-middle
+        title: Team
+        quote: >
+          Aug 2021 - Dec 2021
+        description: |
+          Web app that is used to create CV and store information about employees, up-to-date information about company and projects.
+
+          Role: <mark>Fullstack Developer</mark>.
+          
+          Environment: <mark>Ruby, Rails, RSpec, PostgreSQL, Heroku</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
