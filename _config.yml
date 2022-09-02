@@ -115,6 +115,45 @@ content:
 
           Environment: <mark>Ruby, Rails, RSpec, Redis, Amazon: EC2, ECS, RDS; Docker, GitHub Actions, Facebook API, Stripe, Sidekiq</mark>.
 
+      - layout: top-middle
+        title: Viviosites
+        quote: >
+          Jun 2021 - Jul 2021
+        description: |
+          Dental website CMS.
+
+          Role: <mark>Fullstack developer</mark>.
+
+          Responsibilities: Adding new themes for the template engine, written on RoR 3rd version!
+
+          Environment: <mark>Ruby, Rails, Docker, jQuery</mark>.
+
+      - layout: top-middle
+        title: Helpthemove
+        quote: >
+          Nov 2020 - Jun 2021
+        description: |
+          Portal for landlords facilitating the transfer of meter readings.
+
+          Role: <mark>Fullstack developer</mark>.
+
+          Responsibilities: New features, also integration new web tool for report generation.
+
+          Environment: <mark>Ruby, Rails, Bootstrap, jQuery, Sidekiq, Postgres, dry-struct, dry-monads, Heroku</mark>.
+
+      - layout: top-middle
+        title: Floe Optometry
+        quote: >
+          Jul 2020 - Oct 2020
+        description: |
+          App for the optometry practice. It provides office management tools and sales integration with the optics distributor.
+
+          Role: <mark>Fullstack developer</mark>.
+
+          Responsibilities: New features and fixing bugs.
+
+          Environment: <mark>Ruby, Rails, Sidekiq, Postgres, Gitlab, Docker, HIPAA Compliance</mark>.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
