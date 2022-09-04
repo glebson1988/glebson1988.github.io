@@ -168,6 +168,17 @@ content:
         description: | # this will include new lines to allow paragraphs
             Big application for all: costing clients, all kinds of reports, sending data to various APIs, Slack notification system etc.
 
+      - layout: left
+        title: Cybergizer
+        link: cybergizer.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: July 2020 - November 2021
+        quote: >
+          Participating in several projects in different roles: <mark>backend developer, fullstack developer, team lead</mark>.
+        description: | # this will include new lines to allow paragraphs
+          Applications:  <mark>Team, Melobeem, Viviosites, Wriite, Helpthemove, Optometry</mark>. More details about each project a little higher.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
