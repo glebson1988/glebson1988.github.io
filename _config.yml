@@ -32,7 +32,7 @@ linkedin_username: glebkaif
 # Additional icon links
 additional_links:
 - title: Habr
-  icon: fas fa-globe
+  icon: fa fa-code
   url: https://career.habr.com/glebson1988
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
