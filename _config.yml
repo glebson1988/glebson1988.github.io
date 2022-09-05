@@ -15,37 +15,16 @@ website: www.glebkaif.ru
 darkmode: false
 
 # Social links
-#twitter_username: facespics
 github_username:  glebson1988
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
 linkedin_username: glebkaif
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: Habr
   icon: fa fa-code
   url: https://career.habr.com/glebson1988
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Gleb and I'm a Ruby developer. I have an experience making web apps. I have worked at a number of companies gaining teamwork skills.
@@ -57,15 +36,6 @@ content:
     content:
       - layout: top-middle
         title: Billing
-        #link: github.com/sproogen
-        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           December 2021 - present.
         description: | # this will include new lines to allow paragraphs
@@ -160,7 +130,6 @@ content:
       - layout: left
         title: Flant
         link: flant.com
-        # link_text: boringcompany.com
         sub_title: Ruby developer
         caption: December 2021 - Present
         quote: >
@@ -171,7 +140,6 @@ content:
       - layout: left
         title: Cybergizer
         link: cybergizer.com
-        # link_text: boringcompany.com
         sub_title: Ruby developer
         caption: July 2020 - November 2021
         quote: >
@@ -190,18 +158,6 @@ content:
           The Saint Petersburg State University of Aerospace Instrumentation is a university with 13 faculties in Saint Petersburg, Russia. Faculties are devoted to innovation management, aerospace engineering, electronic engineering, energy development, computer science, telecommunication, humanities, military science, economics, jurisprudence and special faculties for distance education and recently acquired colleges.
         description: | # this will include new lines to allow paragraphs
           During university time I learnt most of my key skills that I have taken through my career such as working to tight deadlines. I thoroughly enjoyed my time at the university and learnt a lot about a healthy work life balance.
-
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#      - Rock climbing
-#      - Gaming
-#      - Knitting
-#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-#
-#      Look at this cool image
-#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
