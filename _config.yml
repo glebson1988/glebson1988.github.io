@@ -1,44 +1,30 @@
-# Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
-
-# Content configuration version
 version: 2
-
-# Personal info
 name: Gleb Grishakov
 title: Ruby Developer
 email: glebson1988@yandex.ru
 website: www.glebkaif.ru
-
-# Dark Mode (true/false/never)
 darkmode: false
-
-# Social links
 github_username:  glebson1988
 linkedin_username: glebkaif
-
-# Additional icon links
 additional_links:
 - title: Habr
   icon: fa fa-code
   url: https://career.habr.com/glebson1988
-
-# About Section
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hi, my name's Gleb and I'm a Ruby developer. I have an experience making web apps. I have worked at a number of companies gaining teamwork skills.
   I am most skilled in: <mark>Ruby</mark> and <mark>Ruby on Rails</mark>
-
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Billing
         quote: >
           December 2021 - present.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           A service that implements everything related the calculating the cost of services, invoicing, working with related docs, etc.
 
           Role: <mark>Fullstack Developer</mark>.
@@ -58,7 +44,6 @@ content:
           Responsibilities: New features, code review, deploy.
 
           Environment: <mark>Ruby, Rails, RSpec, PostgreSQL, Heroku</mark>.
-
       - layout: top-middle
         title: Wriite
         quote: >
@@ -71,7 +56,6 @@ content:
           Responsibilities: Team leading, code review.
 
           Environment: <mark>Ruby, Rails, RSpec, React, Heroku</mark>.
-
       - layout: top-middle
         title: Melobeem
         quote: >
@@ -84,7 +68,6 @@ content:
           Responsibilities: Rails API, dockerising app for development, adding Github CI. Also working with AWS (ECR, EC2, RDS etc). Adding Stripe payment system. Sidekiq scheduled jobs.
 
           Environment: <mark>Ruby, Rails, RSpec, Redis, Amazon: EC2, ECS, RDS; Docker, GitHub Actions, Facebook API, Stripe, Sidekiq</mark>.
-
       - layout: top-middle
         title: Viviosites
         quote: >
@@ -97,7 +80,6 @@ content:
           Responsibilities: Adding new themes for the template engine, written on RoR 3rd version!
 
           Environment: <mark>Ruby, Rails, Docker, jQuery</mark>.
-
       - layout: top-middle
         title: Helpthemove
         quote: >
@@ -110,7 +92,6 @@ content:
           Responsibilities: New features, also integration new web tool for report generation.
 
           Environment: <mark>Ruby, Rails, Bootstrap, jQuery, Sidekiq, Postgres, dry-struct, dry-monads, Heroku</mark>.
-
       - layout: top-middle
         title: Floe Optometry
         quote: >
@@ -123,9 +104,8 @@ content:
           Responsibilities: New features and fixing bugs.
 
           Environment: <mark>Ruby, Rails, Sidekiq, Postgres, Gitlab, Docker, HIPAA Compliance</mark>.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Flant
@@ -134,9 +114,8 @@ content:
         caption: December 2021 - Present
         quote: >
           Fullstack developer in the Billing project.
-        description: | # this will include new lines to allow paragraphs
+        description: |
             Big application for all: costing clients, all kinds of reports, sending data to various APIs, Slack notification system etc.
-
       - layout: left
         title: Cybergizer
         link: cybergizer.com
@@ -144,11 +123,10 @@ content:
         caption: July 2020 - November 2021
         quote: >
           Participating in several projects in different roles: <mark>backend developer, fullstack developer, team lead</mark>.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Applications:  <mark>Team, Melobeem, Viviosites, Wriite, Helpthemove, Optometry</mark>. More details about each project a little higher.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Saint Petersburg State University of Aerospace Instrumentation
@@ -156,19 +134,12 @@ content:
         sub_title: Innovative Technologies in Electromechanics and Energy
         quote: >
           The Saint Petersburg State University of Aerospace Instrumentation is a university with 13 faculties in Saint Petersburg, Russia. Faculties are devoted to innovation management, aerospace engineering, electronic engineering, energy development, computer science, telecommunication, humanities, military science, economics, jurisprudence and special faculties for distance education and recently acquired colleges.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           During university time I learnt most of my key skills that I have taken through my career such as working to tight deadlines. I thoroughly enjoyed my time at the university and learnt a lot about a healthy work life balance.
-
-# Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
 remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
  - jekyll-seo-tag
