@@ -16,6 +16,24 @@ about_profile_image: images/profile.jpg
 about_content: |
   Hi, my name's Gleb and I'm a Ruby developer. I have an experience making web apps. I have worked at a number of companies gaining teamwork skills.
   I am most skilled in: <mark>Ruby</mark> and <mark>Ruby on Rails</mark>
+
+  As a Fullstack Developer, I have gained extensive experience working on a variety of projects using Ruby on Rails, PostgreSQL, Git, Docker, and other cutting-edge technologies. I have worked on projects ranging from billing and web apps to kids' competition apps and dental website CMS, each with its unique challenges and goals.
+
+  In my current role at Billing, I am responsible for implementing new features related to the calculation of service costs, invoicing, working with related documents, and more. I use Ruby on Rails, RSpec, MySQL, Docker, Slack API, Sidekiq, and Redis, among other tools, to accomplish these tasks.
+
+  As a member of the team that worked on a web app that allows employees to create CVs and store information about the company and projects, I contributed to the development of new features, conducted code reviews, and facilitated deployment. I used Ruby on Rails, RSpec, PostgreSQL, and Heroku, among other tools.
+
+  I also served as team lead for Wriite, a project focused on guided writing and practices that help to reduce anxiety, relieve depression, and overcome the effects of lockdown. In this role, I led the team and conducted code reviews, using Ruby on Rails, RSpec, React, and Heroku.
+
+  In my role as a backend developer for Melobeem, a kids' competition app, I was responsible for developing the Rails API, dockerizing the app for development, and adding a Github CI. I also worked with AWS (ECR, EC2, RDS, etc.), added a Stripe payment system, and used tools such as Redis, GitHub Actions, Facebook API, and Sidekiq for scheduled jobs.
+
+  I worked on Viviosites, a dental website CMS, as a Fullstack developer, where I added new themes for the template engine, which was written in RoR 3rd version, using Ruby, Rails, Docker, and jQuery.
+
+  At Helpthemove, a portal for landlords facilitating the transfer of meter readings, I contributed to the development of new features and integration of a new web tool for report generation. I used Ruby on Rails, Bootstrap, jQuery, Sidekiq, Postgres, dry-struct, dry-monads, and Heroku.
+
+  Lastly, I worked on Floe Optometry, an app for optometry practice that provides office management tools and sales integration with the optics distributor. In this role, I developed new features and fixed bugs using Ruby on Rails, Sidekiq, Postgres, Gitlab, Docker, and HIPAA Compliance.
+
+  Overall, my experience in these various roles has allowed me to grow as a Fullstack Developer and work on a wide range of projects, honing my skills in Ruby on Rails, PostgreSQL, Git, Docker, and other tools and technologies. I look forward to bringing this experience to my next project and continuing to learn and grow as a developer.
 content:
   - title: Projects
     layout: list
