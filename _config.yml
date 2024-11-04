@@ -8,10 +8,10 @@ website: http://glebsoti.beget.tech/
 darkmode: false
 github_username:  glebson1988
 linkedin_username: glebflow
-additional_links:
-- title: Habr
-  icon: fa fa-code
-  url: https://career.habr.com/glebson1988
+#additional_links:
+#- title: Habr
+#  icon: fa fa-code
+#  url: https://career.habr.com/glebson1988
 about_profile_image: images/profile.jpg
 about_content: |
   Hi, my name's Gleb and I'm a Ruby developer. I have an experience making web apps. I have worked at a number of companies gaining teamwork skills.
