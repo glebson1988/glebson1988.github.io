@@ -14,26 +14,27 @@ linkedin_username: glebflow
 #  url: https://career.habr.com/glebson1988
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, my name's Gleb and I'm a Ruby developer. I have an experience making web apps. I have worked at a number of companies gaining teamwork skills.
-  I am most skilled in: <mark>Ruby</mark> and <mark>Ruby on Rails</mark>
+  <mark>Fullstack Developer | Ruby on Rails Specialist</mark>
 
-  As a Fullstack Developer, I have gained extensive experience working on a variety of projects using Ruby on Rails, PostgreSQL, Git, Docker, and other cutting-edge technologies. I have worked on projects ranging from billing and web apps to kids' competition apps and dental website CMS, each with its unique challenges and goals.
+  Experienced Fullstack Developer with a strong focus on <mark>Ruby on Rails</mark>, <mark>PostgreSQL/MySQL</mark>, <mark>Docker</mark>, and cloud services (<mark>AWS</mark>, <mark>Heroku</mark>). Proven track record across diverse domains: billing systems, SaaS platforms, educational and healthcare apps.
 
-  In my current role at Billing, I am responsible for implementing new features related to the calculation of service costs, invoicing, working with related documents, and more. I use Ruby on Rails, RSpec, MySQL, Docker, Slack API, Sidekiq, and Redis, among other tools, to accomplish these tasks.
+  **Key Projects & Responsibilities:**
 
-  As a member of the team that worked on a web app that allows employees to create CVs and store information about the company and projects, I contributed to the development of new features, conducted code reviews, and facilitated deployment. I used Ruby on Rails, RSpec, PostgreSQL, and Heroku, among other tools.
+  **Billing platform** – implemented complex service cost calculations, invoicing, document workflows (<mark>RoR</mark>, <mark>MySQL</mark>, <mark>Sidekiq</mark>, <mark>Redis</mark>).
 
-  I also served as team lead for Wriite, a project focused on guided writing and practices that help to reduce anxiety, relieve depression, and overcome the effects of lockdown. In this role, I led the team and conducted code reviews, using Ruby on Rails, RSpec, React, and Heroku.
+  **CV builder SaaS** – built features for company/project knowledge base, handled deployment (<mark>RoR</mark>, <mark>Heroku</mark>).
 
-  In my role as a backend developer for Melobeem, a kids' competition app, I was responsible for developing the Rails API, dockerizing the app for development, and adding a Github CI. I also worked with AWS (ECR, EC2, RDS, etc.), added a Stripe payment system, and used tools such as Redis, GitHub Actions, Facebook API, and Sidekiq for scheduled jobs.
+  **Mental health app (Wriite)** – led development team, conducted code reviews (<mark>RoR</mark>, <mark>React</mark>, <mark>RSpec</mark>).
 
-  I worked on Viviosites, a dental website CMS, as a Fullstack developer, where I added new themes for the template engine, which was written in RoR 3rd version, using Ruby, Rails, Docker, and jQuery.
+  **Kids' competition app (Melobeem)** – built backend API, CI/CD, Stripe payments, Facebook API integration (<mark>RoR</mark>, <mark>AWS</mark>, <mark>Docker</mark>).
 
-  At Helpthemove, a portal for landlords facilitating the transfer of meter readings, I contributed to the development of new features and integration of a new web tool for report generation. I used Ruby on Rails, Bootstrap, jQuery, Sidekiq, Postgres, dry-struct, dry-monads, and Heroku.
+  **Dental CMS (Viviosites)** – fullstack dev, templating system extensions (<mark>RoR 3</mark>, <mark>jQuery</mark>).
 
-  Lastly, I worked on Floe Optometry, an app for optometry practice that provides office management tools and sales integration with the optics distributor. In this role, I developed new features and fixed bugs using Ruby on Rails, Sidekiq, Postgres, Gitlab, Docker, and HIPAA Compliance.
+  **Landlord portal (Helpthemove)** – added reporting tools, new features (<mark>RoR</mark>, <mark>dry-monads</mark>, <mark>Sidekiq</mark>).
 
-  Overall, my experience in these various roles has allowed me to grow as a Fullstack Developer and work on a wide range of projects, honing my skills in Ruby on Rails, PostgreSQL, Git, Docker, and other tools and technologies. I look forward to bringing this experience to my next project and continuing to learn and grow as a developer.
+  **Optometry management (Floe)** – HIPAA-compliant features, office/sales integration (<mark>RoR</mark>, <mark>GitLab</mark>, <mark>Docker</mark>).
+
+  Strong in test-driven development (<mark>RSpec</mark>), API design, CI/CD, team collaboration, and mentoring.
 content:
   - title: Projects
     layout: list
